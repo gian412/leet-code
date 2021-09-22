@@ -1,0 +1,35 @@
+{
+  "name": "leet-code",
+  "version": "1.0.0",
+  "description": "LeetCode challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gian412/leet-code.git"
+  },
+  "keywords": [
+    "LeetCode",
+    "leet-code",
+    "leetcode",
+    "challenges",
+    "problems"
+  ],
+  "author": "Gianluca Regis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gian412/leet-code/issues"
+  },
+  "homepage": "https://github.com/gian412/leet-code#readme",
+  "devDependencies": {
+    "@types/node": "^16.7.13",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-typescript": "^0.14.0",
+    "prettier": "^2.3.2",
+    "typescript": "^4.4.2"
+  }
+}
